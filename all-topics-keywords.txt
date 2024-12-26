@@ -1,0 +1,1188 @@
+*** from old diagram:
+emergence
+self-organization
+nonlinear dynamics
+time series analysis
+ordinary differential equations
+iterative maps
+phase space
+attractors
+stability analysis
+population dynamics
+chaos
+multistability
+bifurcation
+coupled map lattices
+systems theory
+homeostasis
+feedback
+self-reference
+goal-oriented/guided behavior
+system dynamics
+sense making
+entropy
+cybernetics
+autopoiesis
+information theory
+computation theory
+complexity measurement
+game theory
+prisoner's dilemma
+rational decision making
+iterative prisoner's dilemma
+n-person prisoner's dilemma
+bounded rationality
+irrational behavior
+cooperation vs. competition
+sparial/network game theory
+evolutionary game theory
+pattern formation
+spatial fractals
+reaction-diffusion systems
+partial differential equations
+dissipative structures
+percolation
+cellular automata
+spatial ecology
+self-replication
+spatial evolutionary biology
+geomorphology
+evolution
+adaptation
+artificial neural networks
+evolutionary computation
+genetic algorithms
+genetic programming
+artificial life
+machine learning
+evo-devo
+artificial intelligence
+evolutionary robotics
+evolvability
+networks
+scale-free networks
+social network analysis
+small-world networks
+community detection
+centrality
+motifs
+graph theory
+scaling
+systems biology
+robustness
+vulnerability
+dynamical networks
+adaptive networks
+collective behavior
+social dynamics
+collective intelligence
+self-organized criticality
+herd mentality
+phase transitions
+agent-based modeling
+synchronization
+ant colony optimization
+particle swarm optimization
+swarm behavior
+
+*** From Wikipedia (https://en.wikipedia.org/wiki/Complex_system):
+nonlinearity
+emergence
+spontaneous order
+adaptation
+feedback loops
+self-organization
+critical phenomena
+statistical physics
+chaos
+adaptation
+open systems
+criticality
+bifurcation
+nested structure
+dynamical networks
+multiplicity
+edge of chaos
+network science
+
+*** Complexity Explained:
+component
+interactions
+networks
+structure
+heterogeneity
+inter-relatedness
+inter-connectedness
+interdependence
+subsystems
+boundaries
+environment
+open/closed systems
+systems of systems
+emergence
+scales
+nonlinearity
+bottom-up
+description
+surprise
+indirect effects
+non-intuitiveness
+phase transitions
+non-reducibility
+breakdown of traditional linear/statistical thinking
+the whole is more than the sum of its parts
+dynamics
+behavior
+nonlinearity
+chaos
+non-equilibrium
+sensitivity
+butterfly effect
+bifurcation
+long-term non-predictability
+uncertainty
+path dependence
+context dependence
+non-ergodicity
+self-organization
+collective behavior
+swarms
+patterns
+spacetime
+order from disorder
+criticality
+self-similarity
+burst
+self-organized criticality
+power laws
+heavy-tailed distributions
+morphogenesis
+decentralized/distributed control
+guided self-organization
+adaptation
+learning
+evolution
+fitness landscapes
+robustness
+resilience
+diversity
+complex adaptive systems
+genetic algorithms
+artificial life
+artificial intelligence
+swarm intelligence
+creativity
+open-endedness
+interdisciplinarity
+universality
+application
+multidisciplinarity
+interdisciplinarity
+crossdisciplinarity
+transdisciplinarity
+economy
+social systems
+ecosystems
+sustainability
+real-world problem solving
+cultural systems
+relevance to everyday life decision making
+methods
+modeling
+simulation
+data analysis
+methodology
+agent-based modeling
+network analysis
+game theory
+visualization
+rules
+understanding
+
+*** Sayama's textbook:
+modeling
+dynamical systems
+phase space
+discrete-time models
+difference equations
+cobweb plots
+variable rescaling
+linear systems
+nonlinear systems
+continuous-time models
+differential equations
+equilibrium points
+bifurcation
+Hopf bifurcation
+period-doubling bifurcation
+chaos
+Lyapunov exponents
+cellular automata
+mean-field approximation
+renormalization group analysis
+critical transition
+continuous-field models
+partial differential equations
+reaction-diffusion systems
+network models
+graph theory
+random graphs
+dynamical networks
+dynamics on networks
+dynamics of networks
+adaptive networks
+percolation
+centrality
+clustering
+degree distribution
+assortativity
+community structure
+modularity
+diffusion
+synchronization
+agent-based modeling
+agent-environment interaction
+ecology
+evolution
+
+*** Mitchell's textbook:
+complexity
+dynamics
+chaos
+prediction
+information
+computation
+evolution
+genetics
+complexity measurement
+self-replication
+genetic algorithms
+cellular automata
+information processing in living systems
+analogies
+artificial intelligence
+computer modeling
+network science
+real-world networks
+scaling
+
+*** Bar-Yam's textbook:
+emergence
+complexity
+iterative maps
+thermodynamics
+statistical mechanics
+cellular automata
+statistical fields
+computer simulation
+information
+computation
+fractals
+scaling
+renormalization
+neural networks
+attractor networks
+feedforward networks
+subdivided neural networks
+subdivision
+hierarchy
+homogeneous systems
+heterogeneous systems
+phase space
+evolution
+environment
+genome
+phenome
+fitness
+exploration
+optimization
+population interactions
+reproduction
+selection
+collective evolution
+development
+patterns
+self-organization
+organization by design
+pattern formation
+complexity measurement
+networked global economy
+transition
+
+*** A First Course in Network Science:
+networks
+social networks
+communication networks
+density
+sparsity
+multilayer networks
+temporal networks
+small-world networks
+hubs
+centrality
+The friendship paradox
+robustness
+directed networks
+weighted networks
+information
+misinformation
+co-occurrence networks
+random networks
+configuration model
+preferential attachment
+communities
+community detection
+epidemic spreading
+opinion dynamics
+search
+
+*** Barabasi's Network Science textbook:
+graph theory
+random networks
+scale-free networks
+preferential attachment
+evolving networks
+degree correlation
+network robustness
+communities
+spreading
+
+*** Thurner et al.'s textbook:
+statistical mechanics
+predictability
+evolution
+adaptation
+robustness
+coevolution
+probability
+information
+stochastic processes
+scaling
+criticality
+self-organized criticality
+power laws
+symmetry
+fractals
+networks
+random networks
+small-world networks
+centrality
+clustering
+configuration model
+hubs
+scale-free networks
+communities
+modularity
+functional networks
+dynamics on networks
+dynamics of networks
+diffusion
+contagion
+epidemic spreading
+adaptive networks
+hypergraphs
+power graphs
+multiplex networks
+multilayer networks
+evolution
+punctuated equilibria
+coevolution
+evolutionary algorithms
+replicator equation
+fitness landscapes
+adjacent possible
+edge of chaos
+entropy
+information
+phase space
+maximum entropy principle
+path dependence
+
+*** CCS 2024 key topics:
+quantum complexity
+complex networks
+data science
+machine learning
+artificial intelligence
+computation
+information processing
+economics
+finance
+social systems
+ecological systems
+cognition
+psychology
+neuroscience
+biological complexity
+health sciences
+city science
+mobility
+transport
+energy
+environment
+sustainability
+climate
+global change
+higher-order interactions
+heterogeneity
+opinion dynamics
+information spreading
+misinformation
+large language models
+
+*** Ladyman & Wiesner's book:
+cybernetics
+systems theory
+dynamical systems
+cellular automata
+numerosity
+disorder
+diversity
+feedback
+non-equilibrium
+emergence
+order
+self-organization
+nonlinearity
+robustness
+nested structure
+modularity
+history
+memory
+adaptive behavior
+power laws
+chaos
+correlations
+feedback
+stability analysis
+critical slowing down
+tipping points
+self-organized criticality
+scale invariance
+complex networks
+computational measures
+thermodynamic depth
+statistical complexity
+true measure complexity
+effective complexity
+logical depth
+probability theory
+information theory
+algorithmic information theory
+
+*** Suggestions from SFI faculty:
+stochastic thermodynamics
+mathematical physics
+intelligence
+mechanistic modeling
+explainability
+brain dynamics
+physiological dynamics
+cell dynamics
+
+*** ActInf GuestStream:
+evolutionary epistemology
+universal Darwinism
+Bayesian inference
+non-equilibrium thermodynamics
+information theory
+cybernetics
+dynamical systems
+universal Bayesianism
+unifying theory of reality
+origins of life
+integrated evolutionary theory
+consciousness
+cosmic evolution
+
+*** Map of Complexity Sciences (https://www.art-sciencefactory.com/complexity-map_feb09.html):
+complexity
+dynamical systems
+graph theory
+evolutionary game theory
+fractal geometry
+chaos
+nonlinear systems
+fuzzy logic
+robustness
+control
+physics of complex systems
+hierarchy
+systems theory
+psychology systems theory
+ecological systems theory
+complex living systems
+complexity in management & planning
+complexity and psychology
+systems biology
+computational biology
+computational chemistry
+biosystems engineering
+education
+healthcare
+public health
+self-organization
+autopoiesis
+complex adaptive systems
+synergetics
+emergence
+swarm behavior
+scaling
+hierarchy
+boundaries
+system dynamics
+evolution
+resilience
+network science
+globalization
+spatial complexity
+geographical complexity
+intersectionality
+applied complexity
+cybernetics
+second-order cybernetics
+systems science
+social systems theory
+socio-cybernetics
+philosophy of complexity
+economic complexity
+e-science
+digital social science
+big data
+data science
+visual complexity
+complexity political science
+complexity policy
+artificial intelligence
+cognitive science
+semiotics
+linguistics
+cellular automata
+connectionism
+genetic algorithms
+computational complexity theory
+artificial life
+agent-based modeling
+robotics
+multi-agent modeling
+data mining
+computational science
+computational social science
+case-based complexity
+qualitative complexity
+interdisciplinary methods
+
+*** "Systems Methodologies for Sustainable Natural Resources Research and Development" diagram:
+biology
+mathematics
+physiology
+economics
+philosophy
+sociology
+general systems theory
+systems science
+systems approaches
+critical systems
+applied systems studies
+systems agriculture
+social systems
+operations research
+management science
+information systems
+systems analysis
+system dynamics
+management cybernetics
+second-order cybernetics
+biology of cognition
+family therapy
+experimental epistemology
+first-order cybernetics
+engineering
+computing
+information theory
+mathematics
+physiology
+
+*** Social media inputs (Twitter, Facebook, LinkedIn, Mastodon, etc.):
+*** Hiroki Sayama:
+active matter
+algebraic graph theory
+multilayer networks
+temporal networks
+simplicial complexes
+hypergraphs
+higher-order interactions
+artificial intelligence
+data science
+deep learning
+large language models
+machine learning
+open-ended evolution
+open-endedness
+opinion dynamics
+artificial society
+social simulation
+mechanistic modeling
+diversity
+creativity
+epidemic modeling
+*** Seth Bullock:
+interdependent networks
+multiplex networks
+coevolution
+major evolutionary transitions
+opinion dynamics 
+phase transitions
+cascading failure
+*** Federico Battiston:
+explosive phenomena
+critical mass
+wisdom of the crowd
+scaling
+*** Eduardo G. Altmann:
+fractals
+fractal geometry
+*** Manlio De Domenico:
+multilayer networks
+*** Luis Rocha:
+machine learning
+data science
+computational science
+theoretical biology
+systems biology
+biological complexity
+biomedical complexity
+origin of information and codes
+canalization
+network medicine
+connectomics
+systems neuroscience
+epidemic modeling
+*** Petter Holme:
+statistics
+*** Barry:
+cognitive complexity
+decision-making complexity
+brain
+information
+artificial intelligence
+*** Someone in Arabic:
+critical phenomena
+phase transitions
+*** Vitorino Ramos:
+neural cognition
+cognition
+Kohonen networks
+*** MN Logan:
+resilience
+efficiency dynamics
+ecological network analysis
+*** Gerald Midgley:
+systems thinking
+agent-based modeling
+interpretive complexity
+social interactionism
+critical complexity
+general systems theory
+hard systems thinking
+soft systems thinking
+critical systems thinking
+*** Piyush Grover:
+active matter
+finite time dynamical systems
+*** Sam Meech:
+feedback
+*** José R. Nicolás-Carlock (ChatGPT):
+collective behavior
+swarming
+flocking
+herding
+synchronization
+pattern formation
+group decision-making
+emergent leaders
+collective intelligence
+collective memory
+social influence
+networks
+nodes
+edges
+connectivity
+small-world networks
+scale-free networks
+network topology
+network structure
+network resilience
+network dynamics
+network evolution
+evolution and adaptation
+genetic algorithms
+evolutionary computation
+natural selection
+survival of the fittest
+coevolution
+niche construction
+adaptive systems
+complex adaptive systems
+pattern formation
+self-organization
+phase transitions
+emergent patterns
+spatial patterns
+temporal patterns
+symmetry breaking
+oscillations
+waves
+systems theory
+systems thinking
+system dynamics
+feedback loops
+homeostasis
+control theory
+open systems
+closed systems
+cybernetics
+systems biology
+nonlinear dynamics
+chaos
+bifurcation
+attractors
+strange attractors
+deterministic chaos
+sensitive dependence on initial conditions
+nonlinear oscillations
+solitons
+game theory
+strategic behavior
+equilibrium
+zero-sum games
+non-zero-sum games
+cooperative games
+non-cooperative games
+prisoner's dilemma
+social dilemma
+evolutionary game theory
+*** codeswitch:
+category theory
+*** Rubens Zimbres:
+Nash equilibrium
+*** Dr Astrocito:
+Nash equilibrium
+*** Bradley K. Sherman:
+organism
+organization
+*** Burny (https://www.youtube.com/watch?v=_JCaic5Cxms) -- too long, didn't check:
+*** Christopher Allen:
+commons
+participatory organizations
+group size issues
+decentralization
+computer consensus
+incentive design
+*** Milo Nouveau:
+multifractals
+*** Saksham Sharma:
+fluids
+*** Yeu Wen Mak:
+algorithmic information theory
+*** Manuel Baltieri:
+compositional game theory
+categorical systems theory
+categorical cybernetics
+category theory
+*** Hang-Hyun Jo:
+universality
+non-equilibrium
+*** Miguel:
+systems neuroscience
+fuzzy logic
+Bayesian networks
+*** NalaN:
+deep learning
+*** Athanassi:
+turbulence
+topological data analysis
+probability
+statistical physics
+*** Leonel Morales Diaz:
+morphospace
+convergent evolution
+*** JonSchull:
+learning
+intelligence
+*** Nicholas Landry:
+social media analysis
+*** Greg Foliente:
+anthro-complexity
+*** Jeff Mignon:
+human complex systems
+natural complex systems
+hard systems
+soft systems
+complexity economics
+general systems theory
+Operations Research
+Practical holism
+Biology of cognition
+Constructivism
+Experimental epistemology
+Conversation theory
+Systems biology
+Farming systems
+Systemic family therapy
+Soft Operations Research
+Management learning
+Systemic inquiry
+Systemic failure
+Systems agriculture
+Critical systems heuristics
+Viable System Model
+*** Ernesto Eduardo:
+Cynefin
+Recursive Relevance Realization
+Influence Matrix
+*** Ben King:
+feedback
+exponential growth
+exponential collapse
+tipping points
+*** Dan Musat:
+Systemic risk
+fat tails
+*** Oliver Lopez-Corona:
+Antifragility
+*** Anurag Sahay:
+system diagrams
+*** Danielc:
+Assembly theory
+stochastic differential equations
+causal inference
+statistical physics
+Embedded agency
+*** Stefano Nichele:
+Reservoir computing
+criticality
+spiking neural networks
+hypergraphs
+*** Alex Bergmann:
+Systems Thinking
+*** Extended Brain:
+Self-organized Criticality
+*** :-):
+Exponential Random Graph Models
+*** Cazabet Rémy:
+mesoscale organization
+community organization
+block models
+spatial networks
+machine learning
+artificial intelligence
+*** Fei-Yue Wang:
+Parallel Systems
+CPSS
+*** Karla Parussel:
+free energy
+non-equilibrium thermodynamics
+*** Robert Insall:
+positive feedback
+*** Nikita:
+extreme events
+model inference
+model discovery
+*** Sehban:
+process discovery
+process mining
+*** rawx:
+memetics
+*** Clopen:
+dissipative structures
+free-energy principle
+*** Mark Boylan:
+leadership
+complexity leadership
+*** Ernesto Eduardo:
+behavioral investment theory
+*** Joe Norman:
+design and engineering practices
+design and form 
+evolutionary engineering
+*** Surendra Orupalli:
+network attacks
+network failures
+*** Pierre Quiroule:
+coupled systems
+*** ericpena:
+transfer entropy
+Granger causality
+probabilistic machine learning
+*** Thibault Schrepel:
+robustness
+near-decomposability
+dynamic capacity
+feedback loops
+increasing return
+agent-based modeling
+pattern-based modeling
+uncertainty
+dynamic competition
+*** Kolman:
+anthro-complexity
+context
+assemblage theory
+*** barry goldman:
+open-ended evolution
+origins of life
+*** Chetan Dhruve:
+system boundaries
+subjectivity
+butterfly effect
+interlinked cause/effects
+mechanistic systems
+biological systems
+tame problems
+wicked problems
+*** Nachi Stern:
+glass
+jamming
+constraint satisfaction
+inverse problems
+NP-completeness
+replica theory
+cavity method
+*** Vires in numeris:
+mechanism design
+radical markets
+*** Zach Friedenberger:
+chimera states
+functional noise
+*** WataruToyokawa:
+niche construction
+cultural evolution
+*** Catharine Wyss:
+artificial intelligence
+*** Sambamurthi K Balachander:
+non-equilibrium human ecology
+environmental entitlement analysis
+food-energy nexus
+participatory action research
+*** William:
+consciousness
+*** Sehban:
+pattern recognition
+*** Vivek Babu Girija:
+decision-making
+heuristics and biases
+ecological rationality
+simple heuristics
+bounded rationality
+nudge
+boost
+adaptive toolbox
+*** chris corriere:
+Nash games
+stag hunt
+*** Pierre Quiroule:
+coupling
+*** Laura Nissen:
+power analysis
+context
+constructivism
+*** Kahlo:
+noosphere
+*** Ted Pavlic:
+self-assembly
+self-organization
+*** makermind:
+tragedy of the commons
+*** DrLeeMcKnight:
+complexity theory
+complex adaptive systems
+*** Jimmy Jia:
+metric systems
+*** Shingai Thornton:
+systems science
+systems literacy
+*** Steven Flinn:
+applied category theory
+*** Max Wilson:
+hierarchical organization
+*** Tony Seaman:
+Dunning Kruger effect
+MMT
+*** Rishi:
+active inference
+free-energy principle
+markov blankets
+*** The Ecstatic Stock Market:
+power laws
+*** Anna Nenarokova:
+constructive neutral evolution
+*** Justin Shoger:
+generalized information theory
+*** Lily E. Espinoza:
+salutogenesis
+*** Daniel Hulse:
+resilience
+unknown unknowns
+*** Giulio Giacomo Cantone:
+sensitivity analysis
+uncertainty analysis
+*** NagarjunaG:
+semiotics
+embodied action
+dynamical systems
+*** Stephen Buehler:
+dynamics
+reciprocity
+emergence
+nonlinearity
+asynchrony
+quantum
+patterns
+structure
+layers
+randomness
+chaos
+unpredictability
+paradox
+elegance
+gracefulness
+wondrousness
+*** Jeff Mignon:
+DSRP (Distinctions, Systems, Relationships, Perspectives)
+*** Stefan Fortuin:
+tools
+application
+methods
+theory
+framework
+*** Will Harwood:
+Kauffman networks
+*** Simon Robert Ferdinand:
+instinct
+intuition
+*** Mary Gemignani:
+relationship management and tracking
+usage awareness
+*** Eric Lawton:
+conceptual models
+computational models
+mathematical models
+black-box models
+*** Hans-Florian Hoyer:
+wicked problems
+presencing
+*** Larry Langman:
+representation of knowledge
+*** Gogo Erekosima:
+wicked problems
+pattern research
+pattern languages
+*** Maryam Ghaffari Saadat:
+formal methods
+mathematical logic
+graphical formalisms
+category theory
+*** Serge Stinckwich:
+participatory modeling
+companion modeling
+wicked problems
+post-normal science
+*** Önder Gürcan:
+agent-based modeling
+*** Tim Gasperak:
+dispositionalism
+process theory
+biopoetics
+constructor theory
+*** Silvio Funtowicz:
+post-normal science
+*** Dmitry Zinoviev:
+Nk(c) optimization
+fitness landscapes
+*** Samir Bico:
+sociotechnical systems
+*** Geoff Elliott:
+sociotechnical systems
+*** Matthew Kamerman:
+social, economic, and developmental sciences
+*** Jorge Luis Ibarra:
+fuzzy logic
+*** Pier Luigi Gentili:
+chemical artificial intelligence
+*** Gonzalo Raineri:
+symbiotic design
+*** David Lightstone:
+deterministic and nondeterministic problems
+*** Benton Bovée:
+brainstorming
+independent behavior
+unpredictable/chaotic behavior
+pattern entropy
+*** Fabrice Fleuchey:
+reletivized systemic method
+*** Jose Asdrubal Asencio:
+systems of systems
+*** Maeiou A Bc:
+algorithmic information dynamics
+*** John Paul Gonzales:
+solitons
+neutral networks
+life
+multiplayer dynamics
+*** Antonio Zinilli:
+multilayer networks
+Bayesian networks
+economic complexity
+knowledge and innovation networks
+*** Marco Albrecht:
+mechanical systems
+thermodynamically constraint averaging theory
+quantitative systems pharmacology
+physiology based pharmacokinetics
+*** Robert Schaefer:
+system making
+social systems
+*** Jan Frelin:
+negative feedback
+positive feedback
+feedback loops
+*** Jan Frelin:
+Kaufmann's screwdriver
+*** Richard Lowenberg:
+information theory
+*** Galen Wilkerson:
+metastability
+absorbing states
+*** Nia Amazeen:
+perturbations
+perception-action-cognition
+distributed cognition
+*** Julian Still:
+context
+transcontextuality
+*** David J. Harding:
+expectation enactment
+dynamic environments
+*** Michelle Bannister:
+humanity
+*** Richard Busulwa:
+fitness landscapes
+ambidexterity
+exploration vs. exploitation
+strategic sensing
+emergence
+applied complexity
+Cynefin
+VUCA
+strategic management
+information systems
+computer science
+*** Matthew Kamerman:
+human society
+*** Jarl Clausen:
+human complex systems
+experiences
+phylogenetic conditioned response stereotypes
+*** Nasser Danaye:
+path dependence

@@ -1,0 +1,692 @@
+"absorbing states",4017
+"active inference",3657
+"active matter",10348
+"adaptation",4525709
+"adaptive behavior",99739
+"adaptive networks",24748
+"adaptive systems",117032
+"adaptive toolbox",759
+"adjacent possible",2903
+"agent-based modeling",52083
+"agent-environment interaction",1498
+"algebraic graph theory",4762
+"algorithmic information dynamics",44
+"algorithmic information theory",2166
+"ambidexterity",13434
+"analogies",2196891
+"ant colony optimization",59674
+"anthro-complexity",2
+"antifragility",936
+"application",31684065
+"applied category theory",150
+"applied complexity",300
+"applied systems studies",25
+"artificial intelligence",955097
+"artificial life",19425
+"artificial neural networks",503371
+"artificial society",3222
+"assemblage theory",2890
+"assembly theory",2158
+"assortativity",75636
+"asynchrony",81011
+"attractor networks",4378
+"attractors",5674113
+"autopoiesis",13038
+"bayesian inference",130351
+"bayesian networks",108167
+"behavior",18784186
+"behavioral investment theory",41
+"bifurcation",757816
+"big data",449188
+"biological complexity",18714
+"biological systems",606606
+"biology",4060761
+"biology of cognition",911
+"biomedical complexity",123
+"biopoetics",222
+"biosystems engineering",3663
+"black-box models",28765
+"block models",52151
+"boost",2275464
+"bottom-up",368209
+"boundaries",10296806
+"bounded rationality",52508
+"brain",6905432
+"brain dynamics",10194
+"brainstorming",202388
+"breakdown of traditional linear/statistical thinking",0
+"burst",1527343
+"butterfly effect",8977
+"canalization",39084
+"cascading failure",14688
+"case-based complexity",30
+"categorical cybernetics",15
+"categorical systems theory",41
+"category theory",22292
+"causal inference",123175
+"cavity method",12025
+"cell dynamics",13563
+"cellular automata",64847
+"centrality",19948927
+"chaos",720112
+"chemical artificial intelligence",65
+"chimera states",1339
+"city science",16901
+"climate",4793984
+"closed systems",241422
+"clustering",7967748
+"cobweb plots",263
+"coevolution",75472
+"cognition",1396692
+"cognitive complexity",22162
+"cognitive science",132379
+"collective behavior",67168
+"collective evolution",1408
+"collective intelligence",27705
+"collective memory",90398
+"commons",1392348
+"communication networks",355924
+"communities",13761646
+"community detection",32575
+"community organization",143708
+"community structure",289056
+"companion modeling",2814
+"complex adaptive systems",29655
+"complexity",8933119
+"complexity and psychology",399
+"complexity economics",678
+"complexity in management & planning","Association[Association[result$53005][""meta""]][""count""]"
+"complexity leadership",1347
+"complexity measurement",5763
+"complexity policy",1783
+"complexity political science",17
+"complexity theory",46941
+"complex living systems",1899
+"complex networks",287294
+"component",26733447
+"compositional game theory",45
+"computation",8939524
+"computational biology",54930
+"computational chemistry",44738
+"computational complexity theory",3931
+"computational measures",7068
+"computational models",476491
+"computational science",40138
+"computational social science",5021
+"computation theory",19150
+"computer consensus",230
+"computer modeling",306548
+"computer science",682602
+"computer simulation",714869
+"computing",12333765
+"conceptual models",451467
+"configuration model",43764
+"connectionism",9089
+"connectivity",2571568
+"connectomics",7828
+"consciousness",1848249
+"constraint satisfaction",39814
+"constructive neutral evolution",202
+"constructivism",119418
+"constructor theory",148
+"contagion",197326
+"context",17117865
+"context dependence",13851
+"continuous-field models",163
+"continuous-time models",21153
+"control",45016812
+"control theory",257558
+"convergent evolution",43959
+"conversation theory",1563
+"co-occurrence networks",12588
+"cooperation vs. competition",441
+"cooperative games",8666
+"correlations",16700671
+"cosmic evolution",10583
+"coupled map lattices",4343
+"coupled systems",178715
+"coupling",4523498
+"cpss",15679
+"creativity",1136694
+"critical complexity",1885
+"criticality",20475323
+"critical mass",131764
+"critical phenomena",19445
+"critical slowing down",9912
+"critical systems",85161
+"critical systems heuristics",467
+"critical systems thinking",1291
+"critical transition",31861
+"crossdisciplinarity",431
+"cultural evolution",38191
+"cultural systems",71599
+"cybernetics",112498
+"cynefin",1046
+"data analysis",3263664
+"data mining",353598
+"data science",103706
+"decentralization",779232
+"decentralized/distributed control",122
+"decision-making",3154776
+"decision-making complexity",907
+"deep learning",776749
+"degree correlation",22118
+"degree distribution",63300
+"density",17356980
+"description",15092203
+"design and engineering practices",1031
+"design and form",65773
+"deterministic and nondeterministic problems",11
+"deterministic chaos",13812
+"development",38724475
+"difference equations",185228
+"differential equations",1775415
+"diffusion",5749363
+"digital social science",214
+"directed networks",32508
+"discrete-time models",27397
+"disorder",9048940
+"dispositionalism",1220
+"dissipative structures",16004
+"distributed cognition",9314
+"diversity",5867169
+"dsrp (distinctions, systems, relationships, perspectives)","Association[Association[result$70295][""meta""]][""count""]"
+"dunning kruger effect",1428
+"dynamical networks",95858
+"dynamical systems",732171
+"dynamic capacity",11185
+"dynamic competition",7713
+"dynamic environments",183229
+"dynamics",5376864
+"dynamics of networks",9204
+"dynamics on networks",9204
+"ecological network analysis",1886
+"ecological rationality",2942
+"ecological systems",150263
+"ecological systems theory",7961
+"ecology",1644081
+"economic complexity",9505
+"economics",1817255
+"economy",5850166
+"ecosystems",2310216
+"edge of chaos",7149
+"edges",8436896
+"education",12936546
+"effective complexity",2418
+"efficiency dynamics",503
+"elegance",146722
+"embedded agency",1350
+"embodied action",6991
+"emergence",3654098
+"emergent leaders",1601
+"emergent patterns",12710
+"energy",20796571
+"engineering",7933132
+"entropy",1606239
+"environment",21278729
+"environmental entitlement analysis",11
+"epidemic modeling",30556
+"epidemic spreading",25525
+"equilibrium",6134726
+"equilibrium points",26666
+"e-science",18062
+"evo-devo",5338
+"evolution",9177209
+"evolution and adaptation",13933
+"evolutionary algorithms",162499
+"evolutionary computation",49970
+"evolutionary engineering",2052
+"evolutionary epistemology",2774
+"evolutionary game theory",14866
+"evolutionary robotics",3092
+"evolvability",6888211
+"evolving networks",14015
+"expectation enactment",110
+"experiences",22373883
+"experimental epistemology",326
+"explainability",24850912
+"exploration",4287993
+"exploration vs. exploitation",1454
+"explosive phenomena",943
+"exponential collapse",204
+"exponential growth",332108
+"exponential random graph models",3928
+"extreme events",138190
+"family therapy",80159
+"farming systems",120399
+"fat tails",8043
+"feedback",5426228
+"feedback loops",554951
+"feedforward networks",28030
+"finance",3069876
+"finite time dynamical systems",55
+"first-order cybernetics",207
+"fitness",1448284
+"fitness landscapes",20367
+"flocking",373852
+"fluids",8152343
+"food-energy nexus",763
+"formal methods",78850
+"fractal geometry",32677
+"fractals",356509
+"framework",12453794
+"free energy",966523
+"free-energy principle",2626
+"functional networks",59426
+"functional noise",813
+"fuzzy logic",284855
+"game theory",190049
+"generalized information theory",327
+"general systems theory",17795
+"genetic algorithms",640272
+"genetic programming",89442
+"genetics",1188526
+"genome",3078777
+"geographical complexity",2278
+"geomorphology",132449
+"glass",6750403
+"global change",221462
+"globalization",15675117
+"goal-oriented/guided behavior",1
+"gracefulness",209120
+"granger causality",65778
+"graphical formalisms",1407
+"graph theory",169085
+"group decision-making",32774
+"group size issues",78
+"guided self-organization",236
+"hard systems",8928
+"hard systems thinking",462
+"healthcare",3324313
+"health sciences",586069
+"heavy-tailed distributions",16896
+"herding",599732
+"herd mentality",3133
+"heterogeneity",3417755
+"heterogeneous systems",92118
+"heuristics and biases",5238
+"hierarchical organization",66111
+"hierarchy",4257826
+"higher-order interactions",12428
+"history",19715284
+"homeostasis",1513615
+"homogeneous systems",79808
+"hopf bifurcation",50030
+"hubs",1064745
+"human complex systems",312
+"humanity",1100121
+"human society",242255
+"hypergraphs",38046
+"incentive design",7652
+"increasing return",66339
+"independent behavior",23367
+"indirect effects",179696
+"influence matrix",14409
+"information",39985031
+"information processing",771620
+"information processing in living systems",117
+"information spreading",22766
+"information systems",1415624
+"information theory",191736
+"instinct",341315
+"integrated evolutionary theory",8
+"intelligence",2833485
+"interactions",22335989
+"inter-connectedness",28048
+"interdependence",601406
+"interdependent networks",6327
+"interdisciplinarity",221552
+"interdisciplinary methods",6492
+"interlinked cause/effects",0
+"interpretive complexity",1823
+"inter-relatedness",56442
+"intersectionality",2437122
+"intuition",1003288
+"inverse problems",211369
+"irrational behavior",13416
+"iterative maps",9134
+"iterative prisoner's dilemma",1620
+"jamming",723750
+"kauffman networks",235
+"kaufmann's screwdriver",0
+"knowledge and innovation networks",457
+"kohonen networks",4648
+"large language models",56923
+"layers",14719637
+"leadership",2633524
+"learning",10056227
+"life",23074790
+"linear systems",591584
+"linguistics",363818
+"logical depth",1157
+"long-term non-predictability",2
+"lyapunov exponents",65721
+"machine learning",1510006
+"major evolutionary transitions",2018
+"management cybernetics",309
+"management learning",14041
+"management science",93216
+"markov blankets",3628
+"mathematical logic",34406
+"mathematical models",1821845
+"mathematical physics",93211
+"mathematics",7208880
+"maximum entropy principle",11223
+"mean-field approximation",49488
+"mechanical systems",277068
+"mechanism design",76621
+"mechanistic modeling",98296
+"mechanistic systems",2518
+"memetics",21140
+"memory",6325210
+"mesoscale organization",1492
+"metastability",539866
+"methodology",11847592
+"methods",62383723
+"metric systems",33797
+"misinformation",200404
+"mmt",78336
+"mobility",4121745
+"model discovery",12243
+"model inference",27722
+"modeling",46845351
+"modularity",1219672
+"morphogenesis",319889
+"morphospace",7516
+"motifs",1860272
+"multi-agent modeling",5688
+"multidisciplinarity",142135
+"multifractals",31830
+"multilayer networks",14419
+"multiplayer dynamics",13
+"multiplex networks",8967
+"multiplicity",1180472
+"multistability",21253
+"nash equilibrium",99285
+"nash games",592
+"natural complex systems",694
+"natural selection",319180
+"near-decomposability",1490
+"negative feedback",364693
+"nested structure",33194
+"network analysis",350626
+"network attacks",33770
+"network dynamics",30848
+"networked global economy",275
+"network evolution",21786
+"network failures",30976
+"network medicine",2678
+"network models",630845
+"network resilience",7900
+"network robustness",16970
+"networks",15310139
+"network science",23612
+"network structure",508018
+"network topology",297313
+"neural cognition",237
+"neural networks",2095274
+"neuroscience",621616
+"neutral networks",12097
+"niche construction",6290
+"nk(c) optimization",0
+"nodes",5612916
+"non-cooperative games",2599
+"non-equilibrium",175884
+"non-equilibrium human ecology",0
+"non-equilibrium thermodynamics",4927
+"non-ergodicity",8315
+"non-intuitiveness",13392
+"nonlinear dynamics",69472
+"nonlinearity",4947515
+"nonlinear oscillations",14838
+"nonlinear systems",350029
+"non-reducibility",101418
+"non-zero-sum games",691
+"noosphere",4186
+"np-completeness",60878
+"n-person prisoner's dilemma",200
+"nudge",130001
+"numerosity",14203
+"open/closed systems",659
+"open-ended evolution",638
+"open-endedness",8240
+"open systems",207278
+"operations research",137833
+"opinion dynamics",5433
+"optimization",11453765
+"order",42564236
+"order from disorder",1403
+"ordinary differential equations",380826
+"organism",4815693
+"organization",12020714
+"organization by design",34849
+"origin of information and codes",2
+"origins of life",43512
+"oscillations",2476035
+"paradox",2045835
+"parallel systems",72073
+"partial differential equations",477904
+"participatory action research",39313
+"participatory modeling",10746
+"participatory organizations",1449
+"particle swarm optimization",209465
+"path dependence",37184
+"pattern-based modeling",1184
+"pattern entropy",1127
+"pattern formation",93980
+"pattern languages",14510
+"pattern recognition",530395
+"pattern research",25907
+"patterns",23448538
+"perception-action-cognition",90
+"percolation",405297
+"period-doubling bifurcation",11384
+"perturbations",2763205
+"phase space",386036
+"phase transitions",963465
+"phenome",26652
+"philosophy",2943944
+"philosophy of complexity",496
+"phylogenetic conditioned response stereotypes",0
+"physics of complex systems",2149
+"physiological dynamics",1758
+"physiology",8361694
+"physiology based pharmacokinetics",13089
+"population dynamics",157077
+"population interactions",16590
+"positive feedback",390057
+"post-normal science",1844
+"power analysis",230656
+"power graphs",5291
+"power laws",672766
+"practical holism",98
+"predictability",1958486
+"prediction",9027475
+"preferential attachment",18545
+"presencing",27657661
+"prisoner's dilemma",15716
+"probabilistic machine learning",1701
+"probability",9794089
+"probability theory",131862
+"process discovery",12771
+"process mining",16539
+"process theory",112802
+"psychology",2502785
+"psychology systems theory",143
+"public health",3256899
+"punctuated equilibria",2738
+"qualitative complexity",858
+"quantitative systems pharmacology",1401
+"quantum",3560636
+"quantum complexity",1946
+"radical markets",1666
+"random graphs",55609
+"randomness",18112292
+"random networks",66506
+"rational decision making",20877
+"reaction-diffusion systems",15204
+"real-world networks",21703
+"real-world problem solving",3522
+"reciprocity",444583
+"recursive relevance realization",0
+"relationship management and tracking",43
+"reletivized systemic method",0
+"relevance to everyday life decision making",1
+"renormalization",366430
+"renormalization group analysis",6187
+"replica theory",1145
+"replicator equation",3566
+"representation of knowledge",30629
+"reproduction",2843631
+"reservoir computing",7457
+"resilience",1074637
+"robotics",1656845
+"robustness",7959354
+"rules",13889708
+"salutogenesis",3689
+"scale-free networks",20383
+"scale invariance",50637
+"scales",25016760
+"scaling",25016744
+"search",13014610
+"second-order cybernetics",1157
+"selection",13225622
+"self-assembly",242935
+"self-organization",123117
+"self-organized criticality",7713
+"self-reference",33834
+"self-replication",24630
+"self-similarity",54740
+"semiotics",233225
+"sense making",44623
+"sensitive dependence on initial conditions",2354
+"sensitivity",11414965
+"sensitivity analysis",930952
+"simple heuristics",7421
+"simplicial complexes",20683
+"simulation",11185165
+"small-world networks",15979
+"social dilemma",22312
+"social dynamics",51247
+"social, economic, and developmental sciences","Association[Association[result$139091][""meta""]][""count""]"
+"social influence",175134
+"social interactionism",885696
+"social media analysis",5605
+"social network analysis",76801
+"social networks",1047850
+"social simulation",5220
+"social systems",379769
+"social systems theory",3767
+"socio-cybernetics",40
+"sociology",1653641
+"sociotechnical systems",17110
+"soft operations research",162
+"soft systems",16363
+"soft systems thinking",979
+"solitons",179017
+"spacetime",208165
+"sparial/network game theory",0
+"sparsity",2251618
+"spatial complexity",17221
+"spatial ecology",7017
+"spatial evolutionary biology",2
+"spatial fractals",1123
+"spatial networks",18222
+"spatial patterns",395034
+"spiking neural networks",15776
+"spontaneous order",10758
+"spreading",8518585
+"stability analysis",384656
+"stag hunt",3588
+"statistical complexity",4735
+"statistical fields",10416
+"statistical mechanics",70019
+"statistical physics",65072
+"statistics",5167985
+"stochastic differential equations",84794
+"stochastic processes",324110
+"stochastic thermodynamics",2178
+"strange attractors",22758
+"strategic behavior",36915
+"strategic management",150349
+"strategic sensing",4862
+"structure",39064988
+"subdivided neural networks",7
+"subdivision",653180
+"subjectivity",4024516
+"subsystems",939481
+"surprise",2237993
+"survival of the fittest",20662
+"sustainability",9869912
+"swarm behavior",9552
+"swarming",539374
+"swarm intelligence",46842
+"swarms",539376
+"symbiotic design",158
+"symmetry",3790062
+"symmetry breaking",209469
+"synchronization",1710799
+"synergetics",144534
+"system boundaries",80067
+"system diagrams",39231
+"system dynamics",128728
+"systemic failure",13887
+"systemic family therapy",2638
+"systemic inquiry",794
+"systemic risk",51950
+"system making",35238
+"systems agriculture",17887
+"systems analysis",423150
+"systems approaches",400028
+"systems biology",119195
+"systems literacy",1311
+"systems neuroscience",10840
+"systems of systems",4145750
+"systems science",104737
+"systems theory",274313
+"systems thinking",60482
+"tame problems",1259
+"temporal networks",13141
+"temporal patterns",254226
+"the friendship paradox",389
+"theoretical biology",11446
+"theory",19374000
+"thermodynamically constraint averaging theory",0
+"thermodynamic depth",269
+"thermodynamics",321335
+"the whole is more than the sum of its parts",1192
+"time series analysis",167893
+"tipping points",16575
+"tools",18465073
+"topological data analysis",4605
+"tragedy of the commons",14980
+"transcontextuality",1014
+"transdisciplinarity",43394
+"transfer entropy",7164
+"transition",12390310
+"transport",9496338
+"true measure complexity",14
+"turbulence",1052512
+"uncertainty",6692918
+"uncertainty analysis",105050
+"understanding",18421594
+"unifying theory of reality",32
+"universal bayesianism",94
+"universal darwinism",633
+"universality",5615368
+"unknown unknowns",35946
+"unpredictability",1285841
+"unpredictable/chaotic behavior",77
+"usage awareness",1226
+"variable rescaling",1352
+"viable system model",2375
+"visual complexity",12072
+"visualization",5605788
+"vuca",7896
+"vulnerability",4179428
+"waves",8775554
+"weighted networks",18088
+"wicked problems",24583
+"wisdom of the crowd",6203
+"wondrousness",45796
+"zero-sum games",5028
