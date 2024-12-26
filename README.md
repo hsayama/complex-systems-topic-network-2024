@@ -13,7 +13,7 @@ The data (a), (b) and (c) were used to incorporate the research community's inte
 
 To improve the quality of network reconstruction, I also went through the entire relevant keyword list and manually curated the possible associations of the pairs of keywords from the viewpoint of complex systems science and engineering. The edge weights between a pair of associated keywords were then calculated according to the OpenAlex search hit of the pair, multiplied by each keyword's relevance values. 
 
-The four communities of topics were obtained by using the [Louvain method](https://iopscience.iop.org/article/10.1088/1742-5468/2008/10/P10008) with modularity maximization just to aid the visibility and organization. Those communities are visualized with the following colors and can be interpreted roughly as:
+The four communities of topics were obtained by using the [Louvain method](https://iopscience.iop.org/article/10.1088/1742-5468/2008/10/P10008) with modularity maximization just to aid the visibility and organization (but they are heavily intertwined with each other!). Those communities are visualized with the following colors and can be interpreted roughly as:
    * Orange: Nonlinear dynamics
    * Yellow: Computational modeling
    * Purple: Biological/ecological/evolutionary/learning/social systems
